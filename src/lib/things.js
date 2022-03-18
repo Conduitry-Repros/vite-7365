@@ -1,1 +1,1 @@
-export const foo = { status: 303, headers: { location: '/foo' } };
+export const foo = { status: 200, body: 'Success' };
